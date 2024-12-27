@@ -7,5 +7,5 @@ public enum Symptoms {
     JOINT_PAIN,
     BRAIN_TUMOR,
     HEART_PROBLEM,
-    PCOD
+    PCOD,
 }
